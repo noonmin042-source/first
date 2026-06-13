@@ -33,3 +33,4 @@ build/
 # 임시 파일
 *.tmp
 *.bak
+.vercel

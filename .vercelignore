@@ -1,0 +1,18 @@
+# 한글 문서 (불필요)
+*.hwp
+*.hwpx
+
+# 미사용 원본/소스 아트
+machaei.png
+mahanni.png
+mareh.png
+marisa.png
+midjourney-editor-*.png
+
+# 빈 플레이스홀더 / 개발용
+claud.md
+text.txt
+first
+CLAUDE.md
+.DS_Store
+.claude/
